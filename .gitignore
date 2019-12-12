@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Settings Prod file
+/backend/settings_prod.py
+
+# Idea
+.idea/
